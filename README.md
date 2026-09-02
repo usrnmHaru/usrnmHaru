@@ -1,6 +1,6 @@
 # Hi, I'm Gab 👋
 
-**Full-Stack Developer · CS Student @ University of Nueva Caceres**
+**Full-Stack Developer · IT Student @ University of Nueva Caceres**
 *Naga City, Camarines Sur 🇵🇭*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-gabriel-david-a-39b661300/)
