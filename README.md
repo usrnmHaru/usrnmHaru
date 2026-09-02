@@ -40,7 +40,7 @@ Official website for the School of Computer and Information Sciences at the Univ
 
 ---
 
-### ✋ [Hands-Off EPL](https://github.com/usrnmHaru/handsoff-EPL) — Informational Website
+### ✋ [EPL](https://github.com/usrnmHaru/handsoff-EPL) — Informational Website
 `Full-Stack / Lead Developer`
 
 Static informational site — content-driven, no backend.
@@ -90,13 +90,6 @@ Mobile-first grading tool with a Flutter client and a Node.js + PostgreSQL backe
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
----
-
-## Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=usrnmHaru&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usrnmHaru&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
